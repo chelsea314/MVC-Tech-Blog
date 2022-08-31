@@ -11,7 +11,7 @@ The comment feature is not working as of yet. It will come soon.
 # Heroku Deployment
 Click link to see the deployed application:
 
-[Deployed Tech Blog]()
+[Deployed Tech Blog](https://tech-blog-module-14.herokuapp.com/)
 
 
 <br>
